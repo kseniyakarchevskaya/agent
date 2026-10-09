@@ -1,0 +1,5 @@
+broker_host = "127.0.0.1"   
+broker_port = 4200          
+token = "change-me"
+agent_id = "my-unique-terminal-id-001" 
+display_name = "Terminal_User"          
